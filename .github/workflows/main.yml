@@ -1,4 +1,4 @@
-name: Deploy para o Vercer
+name: deploy para o Vercer
 on: 
   push:
     branches: 
